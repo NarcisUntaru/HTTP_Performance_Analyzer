@@ -20,12 +20,12 @@ npm start
 Frontend runs on `http://localhost:3000`
 
 ### Access the Application
-Open your browser and navigate to: **`http://localhost:3000`**
+Open your browser and navigate to `http://localhost:3000`
 
 ## Usage
 1. Enter target URL in the form
 2. Configure benchmark parameters (requests, concurrency, rounds)
-3. Click **Start Benchmark**
+3. Click "Start Benchmark"
 4. Monitor progress in real-time
 5. View results and download PDF report
 
