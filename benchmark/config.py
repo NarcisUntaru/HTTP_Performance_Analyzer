@@ -1,0 +1,18 @@
+# URL = "https://httpbin.org/delay/1"
+URL = "https://ofertedigitalizare.ro"
+NUM_REQUESTS = 100
+CONCURRENCY = 3
+CONNECT_TIMEOUT_SECONDS = 3
+READ_TIMEOUT_SECONDS = 10
+RETRY_TOTAL = 1
+RETRY_BACKOFF = 0.2
+WARMUP_REQUESTS = 10
+ROUNDS = 3
+POOL_CONNECTIONS = 100
+POOL_MAXSIZE = 100
+
+
+
+
+
+# python3 benchmark/main.py
